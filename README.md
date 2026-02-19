@@ -46,9 +46,9 @@ Student Grade Tracker is a Java-based console application designed to manage stu
 ## 📸 Project Output Screenshots
 
 <p align="center">
-  <img src="./images/output-1.png" width="900"/>
+  <img src="Images/output-1.png" alt="Project Output 1" width="900">
 </p>
 
 <p align="center">
-  <img src="./images/output-2.png" width="900"/>
+  <img src="Images/output-2.png" alt="Project Output 2" width="900">
 </p>
